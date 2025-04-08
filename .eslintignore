@@ -1,0 +1,19 @@
+# 构建输出
+dist/
+build/
+storybook-static/
+
+# 依赖
+node_modules/
+
+# 测试覆盖率
+coverage/
+
+# 配置文件
+*.config.js
+*.config.ts
+
+# 其他
+.git/
+.DS_Store
+*.log 
